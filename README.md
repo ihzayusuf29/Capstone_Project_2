@@ -1,8 +1,3 @@
-Cyclistic Project
-==============================
-
-Design marketing strategies aimed at converting casual riders into annual members.
-
 Project Organization
 ------------
 
@@ -46,5 +41,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
