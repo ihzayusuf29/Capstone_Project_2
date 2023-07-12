@@ -1,4 +1,4 @@
-Project Organization
+Capstone Project
 ------------
 
     ├── README.md          <- The top-level README for developers using this project.
