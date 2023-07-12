@@ -45,3 +45,4 @@ Capstone Project
 
 
 --------
+<p><small>Project based on the <a target="_blank" href="[https://drive.google.com/drive/folders/1L2BIjpuegENmJfiu4lZ4CcjJhZdFo_8x](https://drive.google.com/drive/folders/1qDcYH_h5-7v6Z9h6MlWiEC8wtY7TFp9Z)">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
